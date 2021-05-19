@@ -125,3 +125,24 @@ options when the animations get more complex.
 
 Also, as a note, my Model takes in multiple commands to alter a shape, but if they overlap, then 
 it automatically reconfigures them to merge them and make it simpler for the machine to handle. 
+
+# Running the Project 
+
+In order to run the program, the user can download the Animator.jar from the folder resources as well as all the text files from the folder demos. Then, put all the files in a new folder, type out the configuration in the command-prompt/terminal. In the run configuration, the user can also specify command-line arguments, such as the file you want to read in, the location you want the output to be printed, the view name you want to use, and the speed of the animation. The options for the view name are "text," "visual, and "svg". For example,
+
+To run the application on a local machine, a user can download the Animator.jar file from the folder resources and all the text files in the root foler. Then putting those files in a new folder and specifying run configurations will allow the user to control and run the app from the command line. The options are: 
+
+1. java -jar Animator.jar 
+2. Inputs: -in <desired demo file to run>
+3. Speed in ticks/second: -speed (int from 1-100)
+4. View Type: -view (view-type)
+     * view-type 1 (Custom UI view): visual
+     * view-type 2 (svg file view): svg
+     * view-type 3 (texual output): text
+5. Output file name: -out (file-name)
+     
+Example command: 
+
+```java -jar Animator.jar -in big-bang-big-crunch.txt -speed 1 -view visual -out out.txt```
+     
+This command will use big-bang-big-crunch.txt for the animation file with its output going to the file out.txt, and create a visual view to show the animation at a speed of 1 ticks per second.
