@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cs3500.easyanimator.controller"},{"l":"cs3500.easyanimator.model"},{"l":"cs3500.easyanimator.model.actions"},{"l":"cs3500.easyanimator.model.shapes"},{"l":"cs3500.easyanimator.util"},{"l":"cs3500.easyanimator.view"}]
