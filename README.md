@@ -16,7 +16,7 @@ motion S1 15 320 0 20 15 178 0 0   20 320 210 20 15 178 0 0
 
 Which would then be processed to allow for our custom UI implementation:
 
-![](https://github.com/liamgabrielknowles/Animation-Engine/blob/main/output-onlinegiftools.gif)
+![](https://github.com/liamgabrielknowles/Animation-Engine/blob/main/UI%20demo%20gif.gif)
 
 An XML SVG output format: 
 
