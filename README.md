@@ -62,10 +62,6 @@ shape disk2 rectangle
 ![GIF](https://course.ccs.neu.edu/cs3500f18/toh-5.gif)
 
 
-> A demonstration of the UI of the application:
-
-![](output-onlinegiftools.gif)
-
 # Documentation 
 
 For full documentation, navigate to the docs branch of the project and download the branch contents as a zip. Then opening the index.html in a browser on local machine will yield a Javadoc of the entire project. 
