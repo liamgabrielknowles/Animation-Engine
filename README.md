@@ -1,8 +1,8 @@
 # Animation-Engine
 
-![](https://course.ccs.neu.edu/cs3500f18/night.gif)
-![](https://course.ccs.neu.edu/cs3500f18/toh-5.gif)
-
+![GIF](https://course.ccs.neu.edu/cs3500f18/night.gif)
+![GIF](https://course.ccs.neu.edu/cs3500f18/toh-5.gif)
+![](output-onlinegiftools.gif)
 
 This project was 
 
@@ -16,7 +16,7 @@ the road with just the essential methods included.
 
 ## AnimationModelImpl
 AnimationModelImpl - This is my first class for my IAnimationModel. This class consists of a
-'''java Map<String, List<IAnimation>>''' and a Map<String, IShape>. Since these are my two fields it 
+`Map<String, List<IAnimation>>` and a `Map<String, IShape>`. Since these are my two fields it 
 keeps my code simple, but it also allows us to name shapes like was asked for in the assignment 
 specifications. An invariant is that a key for a shape map is the same key as the list of 
 animations for that shape in the other map. This naming convention allows us to call a shape 
