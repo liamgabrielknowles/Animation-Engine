@@ -1,6 +1,6 @@
 # Animation-Engine
 
-Many things can be visualized in a way that illustrates how they work more succinctly than descriptions or code. For example, the Towers of Hanoi problem, shown below, is much easier understood with a visual demonstration that a textual algorithm. During my Object-Oriented Design course, my partner Zain Aaban and I worked to solve this problem over 3 weeks. We worked to create a very clearly diivided MVC architecture, while also allowing for abstraction of outputs. The input file format for the generation is a text file as seen in the example below:
+Many things can be visualized in a way that illustrates how they work more succinctly than descriptions or code. For example, the Towers of Hanoi problem, shown below, is much easier understood with a visual demonstration that a textual algorithm. During my Object-Oriented Design course, my partner Zain Aaban and I worked to solve this problem over 3 weeks. We worked to create a very clearly divided MVC architecture, while also allowing for abstraction of outputs. The input file format for the generation is a text file as seen in the example below:
 
 ```
 canvas 10 0 640 225
