@@ -76,12 +76,10 @@ the road with just the essential methods included.
 
 ## AnimationModelImpl
 AnimationModelImpl - This is my first class for my IAnimationModel. This class consists of a
-`Map<String, List<IAnimation>>` and a `Map<String, IShape>`. Since these are my two fields it 
-keeps my code simple, but it also allows us to name shapes like was asked for in the assignment 
-specifications. An invariant is that a key for a shape map is the same key as the list of 
-animations for that shape in the other map. This naming convention allows us to call a shape 
-and its corresponding animations while also making sure that no other shape or animations can 
-have duplicate names (as that would just be confusing).
+`Map<String, List<IAnimation>>` and a `Map<String, IShape>`. An invariant is that a key for a shape map 
+is the same key as the list of animations for that shape in the other map. This naming convention allows 
+us to call a shape and its corresponding animations while also making sure that no other shape 
+or animations can have duplicate names (as that would just be confusing).
 
 ## IAnimation
 IAnimation - This interface represents a singular animation for a given time period. It can only 
