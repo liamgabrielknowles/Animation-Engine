@@ -64,7 +64,7 @@ shape disk2 rectangle
 
 # Documentation 
 
-#### * For full documentation, navigate to the docs branch of the project and download the branch contents as a zip. Then opening the index.html in a browser on local machine will yield an extensive Javadoc of the entire project. 
+#### * Find the full docs at https://liamgabrielknowles.github.io/Animation-Engine/! 
 
 Here is a brief overview of my classes and interfaces:
 ## IAnimationModel
